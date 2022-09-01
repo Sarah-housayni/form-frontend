@@ -1,0 +1,95 @@
+body{
+    margin: auto;
+     background-color: grey;
+    width: 600px;
+ }
+.h1style{
+    color: rgb(104, 19, 19);
+    width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    
+}
+/*.wrap{
+    padding: 10px;
+    background-color:   rgb(177, 174, 174);
+}*/
+.header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+    background-color: white;
+    width: 100%;
+    margin: 0 ;
+    height: 10vh;
+}
+h1{
+    padding-top: 10px;
+}
+
+.wrap{
+    display: inline-block;
+    margin: auto;
+    vertical-align: top;
+    position: absolute;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:   rgb(177, 174, 174);
+    
+}
+
+.leftside{
+   
+    top: 500px;
+    position: absolute;
+    left:300px;
+    bottom: 20px;
+    color: rgb(211, 57, 57);
+}
+.p{
+    color:rgb(104, 19, 19) ;
+}
+.rightside{
+    display: inline-block;
+   top:-1.6cm;
+   bottom: 10cm;
+    left: 250px;
+
+    position: absolute;
+    color: rgb(211, 57, 57);
+   padding: 30px;
+   margin-top: 30px;
+   
+   
+}
+.datelabel{
+    width: 50%;
+     color: rgb(138, 130, 130);
+}
+.name{
+    width: 180%;
+}
+.right{
+    padding-left: 20%;
+}
+.radioitem{
+    accent-color: blue;
+
+}
+
+.button{
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.btn{
+    background: rgb(58, 55, 55);
+    padding-left: 35px;
+    padding-right:35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    color: white;
+    
+
+}
